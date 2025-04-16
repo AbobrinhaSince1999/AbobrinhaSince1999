@@ -1,13 +1,43 @@
-## Hi there 👋, I'm a Software Engineer!
+## Hi there 👋!
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p>From the first "Hello, World!" to the most complex challenges I face today, my journey in programming has always been driven by one core principle: don’t take the easy path, but the one that pushes me to grow. I don't hold a formal degree, but my passion for creating solutions and the persistence to solve problems have shaped me into who I am: a software engineer in constant evolution.
 
----
-![](https://github-contributor-stats.vercel.app/api?username=AbobrinhaSince1999&limit=5&theme=default&combine_all_yearly_contributions=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AbobrinhaSince1999&theme=default&hide_border=true)
+Every project I develop is an opportunity to learn, innovate, and, of course, turn ideas into functional code. No matter the size of the obstacle, my focus is to keep moving forward, improving my skills, and chasing the next challenge. After all, in the world of programming, the only limit a developer faces is their own determination.
 
-![](https://github-readme-stats.vercel.app/api?username=AbobrinhaSince1999&theme=default&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbobrinhaSince1999&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=AbobrinhaSince1999&icon=0&color=12)](https://visitcount.itsvg.in)
+Here, on my GitHub, you’ll find not just code, but a piece of my journey. There are no limits when passion and hard work come together.
+</p>
 
+### 🦉 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=AbobrinhaSince1999.AbobrinhaSince1999&right_color=mediumpurple&left_text=Visitors"  />
+<br/>
 
+## 🛠️ Techs
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=AbobrinhaSince1999&limit=5&theme=default&combine_all_yearly_contributions=true)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AbobrinhaSince1999&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbobrinhaSince1999&theme=default&hide_border=true&layout=compact)
